@@ -14,7 +14,7 @@ citation: '@misc{huang2024exposingtextimageinconsistencyusing,
       eprint={2404.18033},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.18033}, 
+      url={https://arxiv.org/abs/2404.18033}
 }'
 ---
 
