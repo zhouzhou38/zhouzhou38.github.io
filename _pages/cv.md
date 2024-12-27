@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Computer Science, New York University, 2024
+* B.Sc. in Computer Science, University at Buffalo, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - May 2023: University at Buffalo Media Forensic Lab
+* Title: Computer Vision Research Assistant 
+  * Built models for caption-image pair detection and classification using Python, Spacy, CLIP, and Detectron2, leading to publications in CVPR 2023 and ICLR 2024.
+  * Design and implemented a semi-automated tool to process the ImageNet dataset, annotating over 50,000 image masks.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: C, C++, Java, Python, JavaScript, SQL, Scala, MATLAB
+* Frameworks & Technologies: Flask, Django, React.js, Node.js, PyTorch, TensorFlow, OpenCV, MySQL, MongoDB
+* Tools & Platforms: AWS, Google Cloud, Docker, Kubernetes, Git, Jupyter
 
 Publications
 ======
@@ -47,18 +33,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+AWARDS & ACHIEVEMENTS
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Cum Laude in the University at Buffalo: Awarded to students who graduate with a GPA of 3.50 or higher.
+* International Scholarship: University at Buffalo Received for maintaining an overall GPA of 3.0 or higher.
+* Dean’s Honor List: Santa Monica College Recognized for achieving a GPA of 3.5 or higher each academic year.
+* Machine Learning Certificate: Machine Learning by Stanford University and DeepLearning.AI on Coursera.
