@@ -27,7 +27,7 @@ author:
   bio              : "I am a software developer, full-stack developer, and avid gamer with expertise in machine learning, deep learning, computer vision, and natural language processing (NLP). I am also passionate about reading and have a strong interest in law."
   location         : "Flushing, NY, United States"
   employer         : "New York University"
-  uri              : "www.google.com" # URL
+  uri              : "" # URL
   email            : "none@example.org" 
 
   # Academic websites
