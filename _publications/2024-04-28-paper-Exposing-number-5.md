@@ -8,13 +8,14 @@ date: 2023-06-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 paperurl: 'http://zhouzhou38.github.io/files/2404.18033v1.pdf'
 citation: '
-@InProceedings{Jia_2023_CVPR,
-    author    = {Jia, Shan and Huang, Mingzhen and Zhou, Zhou and Ju, Yan and Cai, Jialing and Lyu, Siwei},
-    title     = {AutoSplice: A Text-Prompt Manipulated Image Dataset for Media Forensics},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month     = {June},
-    year      = {2023},
-    pages     = {893-903}
+@misc{huang2024exposingtextimageinconsistencyusing,
+      title={Exposing Text-Image Inconsistency Using Diffusion Models}, 
+      author={Mingzhen Huang and Shan Jia and Zhou Zhou and Yan Ju and Jialing Cai and Siwei Lyu},
+      year={2024},
+      eprint={2404.18033},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2404.18033}, 
 }
 '
 ---
