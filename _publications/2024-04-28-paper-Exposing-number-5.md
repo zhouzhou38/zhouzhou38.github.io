@@ -8,8 +8,19 @@ date: 2024-04-28
 venue: 'The International Conference on Learning Representations (ICLR)'
 paperurl: 'http://zhouzhou38.github.io/files/2404.18033v1.pdf'
 citation: '
-
+@InProceedings{Jia_2023_CVPR,
+    author    = {Jia, Shan and Huang, Mingzhen and Zhou, Zhou and Ju, Yan and Cai, Jialing and Lyu, Siwei},
+    title     = {AutoSplice: A Text-Prompt Manipulated Image Dataset for Media Forensics},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {893-903}
+}
 '
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+
+
+
