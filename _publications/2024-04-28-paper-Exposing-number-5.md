@@ -8,15 +8,7 @@ date: 2024-04-28
 venue: 'The International Conference on Learning Representations (ICLR)'
 paperurl: 'http://zhouzhou38.github.io/files/2404.18033v1.pdf'
 citation: '
-@misc{huang2024exposingtextimageinconsistencyusing,
-      title={Exposing Text-Image Inconsistency Using Diffusion Models}, 
-      author={Mingzhen Huang and Shan Jia and Zhou Zhou and Yan Ju and Jialing Cai and Siwei Lyu},
-      year={2024},
-      eprint={2404.18033},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.18033}
-}
+
 '
 ---
 
