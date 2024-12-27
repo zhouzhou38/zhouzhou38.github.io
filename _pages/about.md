@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhou Zhou Personal websites"
+title: "Welcome to Zhou Zhou websites"
 author_profile: true
 redirect_from: 
   - /about/
