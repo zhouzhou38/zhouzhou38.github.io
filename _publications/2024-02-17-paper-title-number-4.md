@@ -7,7 +7,16 @@ excerpt: 'Recent advancements in language-image models have led to the developme
 date: 2024-02-17
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 paperurl: 'http://zhouzhou38.github.io/files/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf'
-citation: ''
+citation: '
+@InProceedings{Jia_2023_CVPR,
+    author    = {Jia, Shan and Huang, Mingzhen and Zhou, Zhou and Ju, Yan and Cai, Jialing and Lyu, Siwei},
+    title     = {AutoSplice: A Text-Prompt Manipulated Image Dataset for Media Forensics},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {893-903}
+}
+'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
