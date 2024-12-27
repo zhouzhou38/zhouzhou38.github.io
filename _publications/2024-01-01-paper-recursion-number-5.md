@@ -3,7 +3,7 @@ title: "Recursion algorithm with node centrality in social networks"
 collection: publications
 category: conferences
 permalink: /publication/2024-01-01-paper-recursion-number-5
-excerpt: 'The real-world social network undertakes an array of complex functions that shape different people's relationships and built diverse relations between individuals.'
+excerpt: 'The real-world social network undertakes an array of complex functions that shape different people relationships and built diverse relations between individuals.'
 date: 2024-01-01
 venue: 'preprint'
 paperurl: 'http://zhouzhou38.github.io/files/Recursion_algorithm_with_node_centrality_in_social_networks1.pdf'
