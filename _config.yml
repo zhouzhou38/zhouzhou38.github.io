@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Zhou Zhou"
 description              : &description "personal description"
 url                      : https://zhouzhou38.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zhouzhou38?tab=repositories"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   name             : "Zhou Zhou"
   pronouns         : "he/his"  
   bio              : "I am a software developer, full-stack developer, and avid gamer with expertise in machine learning, deep learning, computer vision, and natural language processing (NLP). I am also passionate about reading and have a strong interest in law."
-  location         : "Flushing"
+  location         : "Flushing, NY, United States"
   employer         : "New York University"
   uri              : "" # URL
   email            : "none@example.org" 
